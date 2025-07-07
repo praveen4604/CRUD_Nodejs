@@ -1,6 +1,6 @@
 const mongoose=require('mongoose');
 
-const url='mongodb+srv://NCET:NCET_123@cluster0.7yb8v.mongodb.net/NCET?retryWrites=true&w=majority&appName=Cluster0'
+const url='mongodb url'
 // mongoose.connect(url)
 // .then(()=>{console.log('db connect')})
 // .catch((err)=>{console.log('db error',err)});
